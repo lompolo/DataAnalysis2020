@@ -1,0 +1,4 @@
+*.yml
+test/
+tmc/
+__pycache__
